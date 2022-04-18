@@ -1,4 +1,4 @@
-dataDirectory = "history"
+dataDirectory = "volumes/gekko/history"
 path = "plugins/sqlite"
 version = 0.1
 
